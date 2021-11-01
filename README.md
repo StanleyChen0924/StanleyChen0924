@@ -1,4 +1,4 @@
-### Hi there 👋
+### My GitHub Stats 👋
 
 <!--
 **StanleyChen0924/StanleyChen0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
