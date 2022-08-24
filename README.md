@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/StanleyChen0924/stanleychen0924.github.io/main/file/Rotating_earth_huge.gif">
+</p>
+
 # My GitHub Stats 👋
 
 <!--
