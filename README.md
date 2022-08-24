@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Myself 👋
 
 - [stanleychen0924.github.io](https://stanleychen0924.github.io/)
-- <a href="[http://iptv.ye23.win/tv/cctv.php?id=cctv1](https://stanleychen0924.github.io/)" target="right">stanleychen0924.github.io</a>
+- <a href="https://stanleychen0924.github.io/" target="right">stanleychen0924.github.io</a>
 
 | GitHub Action  | 
 | -------------- | 
