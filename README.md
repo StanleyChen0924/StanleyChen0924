@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AnimatedGears.gif/320px-AnimatedGears.gif">
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/StanleyChen0924/stanleychen0924.github.io/main/file/Rotating_earth_huge.gif">
 </p>
 
