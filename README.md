@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![StanleyChen0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyChen0924&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/StanleyChen0924/StanleyChen0924)
 
-### Myself
+### Myself 👋
 
 - [stanleychen0924.github.io](https://stanleychen0924.github.io/)
 
