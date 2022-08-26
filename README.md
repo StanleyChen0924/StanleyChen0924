@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Myself 👋
 
 - [stanleychen0924.github.io](https://stanleychen0924.github.io/)
-- <a href="https://stanleychen0924.github.io/" target="right">stanleychen0924.github.io</a>
+- <a href="https://github.com/StanleyChen0924/stanleychen0924.github.io" target="right">/stanleychen0924.github.io/</a>
 
 | GitHub Action  | 
 | -------------- | 
