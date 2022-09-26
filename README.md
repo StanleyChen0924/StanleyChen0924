@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=stanleychen0924&color=green)
-<img width="0" height="0" src="https://profile-counter.glitch.me/vikiboss/count.svg" />
+<img width="0" height="0" src="https://profile-counter.glitch.me/stanleychen0924/count.svg" />
