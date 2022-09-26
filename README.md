@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 | GitHub Action  | 
 | -------------- | 
 | [![build](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/php.yml/badge.svg)](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/php.yml/)|
+
+
+![](https://komarev.com/ghpvc/?username=stanleychen0924&color=green)
+<img width="0" height="0" src="https://profile-counter.glitch.me/vikiboss/count.svg" />
