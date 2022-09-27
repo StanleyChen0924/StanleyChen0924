@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 | -------------- | 
 | [![build](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml/badge.svg)](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml)|
 
-
-| Visitor traffic  | 
-| ---------------- | 
+| Visitor traffic | 
+| --------------- | 
 |<img src="https://www.f-counter.net/j/49/1664242542/" />|
 
+| Page View | 
+| --------- | 
 ![](https://komarev.com/ghpvc/?username=stanleychen0924&color=green)
 <img width="0" height="0" src="https://profile-counter.glitch.me/stanleychen0924/count.svg" />
