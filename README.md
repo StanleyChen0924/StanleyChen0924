@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 | GitHub Action  | 
 | -------------- | 
-| [![build](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml/badge.svg)](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/pages/pages-build-deployment/)|
+| [![build](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml/badge.svg)](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml)|
 
 
 ![](https://komarev.com/ghpvc/?username=stanleychen0924&color=green)
