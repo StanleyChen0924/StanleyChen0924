@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=stanleychen0924&color=green)
-<img width="0" height="0" src="https://www.f-counter.net/j/49/1664242542/" />
+<img src="https://www.f-counter.net/j/49/1664242542/" />
 
 ![](https://komarev.com/ghpvc/?username=stanleychen0924&color=green)
 <img width="0" height="0" src="https://profile-counter.glitch.me/stanleychen0924/count.svg" />
