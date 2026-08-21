@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/StanleyChen0924/stanleychen0924.github.io/main/file/320px-AnimatedGears.gif">
 </p>
 
-<p align="center">
+<!--p align="center">
 <img src="https://raw.githubusercontent.com/StanleyChen0924/stanleychen0924.github.io/main/file/Rotating_earth_huge.gif">
-</p>
+</p-->
 
 # My GitHub Stats 👋
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 >
-[![StanleyChen0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyChen0924&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/StanleyChen0924/StanleyChen0924)
+[!--[StanleyChen0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyChen0924&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/StanleyChen0924/StanleyChen0924--)
 
 ### Myself 👋
 
