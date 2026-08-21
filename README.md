@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 >
-[!--[StanleyChen0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyChen0924&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/StanleyChen0924/StanleyChen0924--)
+[![StanleyChen0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyChen0924&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/StanleyChen0924/StanleyChen0924)
 
 ### Myself 👋
 
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 | Page View | 
 | --------- | 
 ![](https://komarev.com/ghpvc/?username=stanleychen0924&color=green)
-<img width="0" height="0" src="https://profile-counter.glitch.me/stanleychen0924/count.svg" />
+<!--img width="0" height="0" src="https://profile-counter.glitch.me/stanleychen0924/count.svg" /-->
