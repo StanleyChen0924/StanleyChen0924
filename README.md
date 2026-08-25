@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 >
-[![StanleyChen0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyChen0924&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/StanleyChen0924/StanleyChen0924)
+[![StanleyChen0924's GitHub stats]](https://github.com/StanleyChen0924/StanleyChen0924)
 
 ### Myself 👋
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 | GitHub Action  | 
 | -------------- | 
-| [![build](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml/badge.svg)](https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml)|
+| (https://github.com/stanleychen0924/stanleychen0924.github.io/actions/workflows/YTlive.yml)|
 
 | Visitor traffic | 
 | --------------- | 
